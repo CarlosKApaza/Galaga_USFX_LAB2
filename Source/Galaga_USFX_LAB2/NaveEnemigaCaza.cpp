@@ -18,12 +18,11 @@ void ANaveEnemigaCaza::Tick(float DeltaTime)
 {
 		Super::Tick(DeltaTime);
 		Mover(DeltaTime);
-
 }
 
 void ANaveEnemigaCaza::Mover(float DeltaTime)
 {
-	//Obtiene una nueva pocision para 
+	//Obtenemos la posición actual del actor
 	FVector PosicionActual = GetActorLocation();
 
 	//Genera nuevas coordenadas X e Y aleatorias

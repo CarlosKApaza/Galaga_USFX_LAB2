@@ -9,7 +9,7 @@ AGalaga_USFX_LAB2GameMode::AGalaga_USFX_LAB2GameMode()
 {
 	// set default pawn class to our character class
 	DefaultPawnClass = AGalaga_USFX_LAB2Pawn::StaticClass();
-	//NaveEnemigaCaza01 = nullptr
+	//NaveEnemigaCaza01 =nullptr
 }
 
 void AGalaga_USFX_LAB2GameMode::BeginPlay()

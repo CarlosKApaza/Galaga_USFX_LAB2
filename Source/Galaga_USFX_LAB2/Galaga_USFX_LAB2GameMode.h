@@ -24,7 +24,7 @@ protected:
 	virtual void BeginPlay() override;
 
 public:
-	ANaveEnemiga* NaveEnemiga01;
+	//ANaveEnemiga* NaveEnemiga01;
 	ANaveEnemigaCaza* NaveEnemigaCaza01;
 	ANaveEnemigaCaza* NaveEnemigaCaza02;
 };
