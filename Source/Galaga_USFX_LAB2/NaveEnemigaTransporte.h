@@ -13,6 +13,16 @@ UCLASS()
 class GALAGA_USFX_LAB2_API ANaveEnemigaTransporte : public ANaveEnemiga
 {
 	GENERATED_BODY()
+//private:
+//	float Velocidad;
+//	//FVector DireccionEscape;
+//public:
+//	//getters
+//	FORCEINLINE float GetVelocidad() const { return Velocidad; }
+//	//FORCEINLINE FVector GetDireccionEscape() const { return DireccionEscape; }
+//	//setters
+//	FORCEINLINE void SetVelocidad(float _velocidad) { Velocidad = _velocidad; }
+//	//FORCEINLINE void SetDireccionEscape(FVector _direccion) { DireccionEscape = _direccion; }
 
 protected:
 	// Called when the game starts or when spawned
@@ -25,5 +35,6 @@ public:
 
 public:
 	virtual void Mover(float DeltaTime);
+	//virtual void Escapar(float velocidadY, float posicion);
 };
 

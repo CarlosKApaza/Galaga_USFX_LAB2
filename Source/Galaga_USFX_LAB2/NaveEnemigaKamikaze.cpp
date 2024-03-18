@@ -39,3 +39,9 @@ void ANaveEnemigaKamikaze::Mover(float DeltaTime)
 	//Establece la nueva posición del actor
 	SetActorLocation(NuevaPosicion);
 }
+
+void ANaveEnemigaKamikaze::Destruirse(float dimension, float tiempo)
+{
+	DimensionDestruccion = dimension - TiempoVida;
+	TiempoVida = tiempo;
+}
