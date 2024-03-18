@@ -14,4 +14,10 @@ C:\SIS457\Galaga_USFX_LAB2\Source\Galaga_USFX_LAB2\NaveEnemigaTransporte.h
 C:\SIS457\Galaga_USFX_LAB2\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_LAB2\NaveEnemigaTransporte.generated.h
 C:\SIS457\Galaga_USFX_LAB2\Source\Galaga_USFX_LAB2\NaveEnemigaEspia.h
 C:\SIS457\Galaga_USFX_LAB2\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_LAB2\NaveEnemigaEspia.generated.h
+C:\SIS457\Galaga_USFX_LAB2\Source\Galaga_USFX_LAB2\NaveEnemigaReabastecimiento.h
+C:\SIS457\Galaga_USFX_LAB2\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_LAB2\NaveEnemigaReabastecimiento.generated.h
+C:\SIS457\Galaga_USFX_LAB2\Source\Galaga_USFX_LAB2\NaveEnemigaNodriza.h
+C:\SIS457\Galaga_USFX_LAB2\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_LAB2\NaveEnemigaNodriza.generated.h
+C:\SIS457\Galaga_USFX_LAB2\Source\Galaga_USFX_LAB2\NaveEnemigaKamikaze.h
+C:\SIS457\Galaga_USFX_LAB2\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_LAB2\NaveEnemigaKamikaze.generated.h
 C:\SIS457\Galaga_USFX_LAB2\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_LAB2\Galaga_USFX_LAB2GameMode.generated.h
